@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag1111111
-- 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...backtrading
+- 👀 I’m interested in ...Full Stack Development, Python
+- 🌱 I’m currently learning ...Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
